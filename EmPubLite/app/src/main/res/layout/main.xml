@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EmPubLiteActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/Level_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="91dp"
+        android:text="Level 1"
+        android:layout_below="@+id/pager"
+        android:layout_centerHorizontal="true"
+        android:onClick="onClickLevel"/>
+    <Button
+        android:id="@+id/Level_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:text="Level 2"
+        android:layout_below="@+id/Level_1"
+        android:layout_alignLeft="@+id/Level_1"
+        android:layout_alignStart="@+id/Level_1"
+        android:onClick="onClickLevel"/>
+
+    <Button
+        android:id="@+id/Level_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Level 3"
+        android:layout_below="@+id/Level_2"
+        android:layout_alignLeft="@+id/Level_2"
+        android:layout_alignStart="@+id/Level_2"
+        android:onClick="onClickLevel"/>
+
+    <Button
+        android:id="@+id/Level_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:text="Level 4"
+        android:layout_below="@+id/Level_3"
+        android:layout_alignLeft="@+id/Level_3"
+        android:layout_alignStart="@+id/Level_3"
+        android:onClick="onClickLevel"/>
+
+    <Button
+        android:id="@+id/Level_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:text="Level 5"
+        android:layout_below="@+id/Level_4"
+        android:layout_alignLeft="@+id/Level_4"
+        android:onClick="onClickLevel"
+        android:layout_alignStart="@+id/Level_4" />
+
+</RelativeLayout>

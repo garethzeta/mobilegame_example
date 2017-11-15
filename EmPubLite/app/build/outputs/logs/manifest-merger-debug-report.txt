@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:5:5-9:40
+	android:largeScreens
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:6:9-36
+	android:smallScreens
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:8:9-37
+	android:normalScreens
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:7:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:9:9-37
+application
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.support:support-v13:25.3.0] C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\AndroidManifest.xml:29:5-20
+MERGED from [com.commonsware.cwac:security:0.5.2] C:\Users\Gareth\.android\build-cache\7a4796eeaf36acb831c5c9ad4a7d245aef721546\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gareth\.android\build-cache\2d0a22077ac11fd94a1fe8e882eb2e910828ea5d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Gareth\.android\build-cache\1a87da5b08d7e961205c65b57a2145c77b2bfd46\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Gareth\.android\build-cache\f50e3e7fbedbd9b4a5e70d484761171538bbaf97\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Gareth\.android\build-cache\d3a4f94b481c09665f2195607b2d6f5411e82c6c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Gareth\.android\build-cache\55aa1c3c1435268dd749af1d1c4c8bc2adb97ef9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Gareth\.android\build-cache\8ec9a2a0d6f55989fc8d4a80dce9416958c423f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Gareth\.android\build-cache\92e6d196d2d33cdb64cf0b548552cc16813cb8b3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:12:9-36
+	android:icon
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.commonsware.empublite.EmPubLiteActivity
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:19:13-74
+	android:name
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:17:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.commonsware.empublite.Game
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:26:9-27:76
+	android:configChanges
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:27:13-74
+	android:name
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:26:19-39
+activity#com.commonsware.empublite.SimpleContentActivity
+ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:28:9-29:86
+	android:configChanges
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml:28:19-56
+uses-sdk
+INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.0] C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.commonsware.cwac:security:0.5.2] C:\Users\Gareth\.android\build-cache\7a4796eeaf36acb831c5c9ad4a7d245aef721546\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gareth\.android\build-cache\2d0a22077ac11fd94a1fe8e882eb2e910828ea5d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Gareth\.android\build-cache\1a87da5b08d7e961205c65b57a2145c77b2bfd46\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Gareth\.android\build-cache\f50e3e7fbedbd9b4a5e70d484761171538bbaf97\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Gareth\.android\build-cache\d3a4f94b481c09665f2195607b2d6f5411e82c6c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Gareth\.android\build-cache\55aa1c3c1435268dd749af1d1c4c8bc2adb97ef9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Gareth\.android\build-cache\8ec9a2a0d6f55989fc8d4a80dce9416958c423f1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Gareth\.android\build-cache\92e6d196d2d33cdb64cf0b548552cc16813cb8b3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Gareth\.android\build-cache\1a87da5b08d7e961205c65b57a2145c77b2bfd46\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Gareth\.android\build-cache\f50e3e7fbedbd9b4a5e70d484761171538bbaf97\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Gareth\.android\build-cache\d3a4f94b481c09665f2195607b2d6f5411e82c6c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Gareth\.android\build-cache\55aa1c3c1435268dd749af1d1c4c8bc2adb97ef9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Gareth\.android\build-cache\8ec9a2a0d6f55989fc8d4a80dce9416958c423f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Gareth\.android\build-cache\92e6d196d2d33cdb64cf0b548552cc16813cb8b3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\AndroidManifest.xml:26:9-47

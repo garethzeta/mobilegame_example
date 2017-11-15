@@ -1,0 +1,7 @@
+#Thu Mar 23 23:39:36 GMT 2017
+base.0=C\:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_46089f8efe371f85934e1ee6f79807ec4641000d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1256f9dc19e55602909fe8b3b8d1eb296aa80918\\classes.dex
+base.1=C\:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1256f9dc19e55602909fe8b3b8d1eb296aa80918
+file.0=C\:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_46089f8efe371f85934e1ee6f79807ec4641000d\\classes.dex

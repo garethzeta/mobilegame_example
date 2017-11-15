@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cannonsound.mp3",
+        "source": "C:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\src\\main\\res\\raw\\cannonsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blockersoundm.mp3",
+        "source": "C:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\src\\main\\res\\raw\\blockersoundm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\build\\intermediates\\res\\merged\\debug\\raw\\targetsound.mp3",
+        "source": "C:\\Users\\Gareth\\Documents\\Andriodstuff\\EmPubLite\\app\\src\\main\\res\\raw\\targetsound.mp3"
+    }
+]

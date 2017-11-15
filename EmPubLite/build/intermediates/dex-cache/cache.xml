@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.android\build-cache\52004ce1ebc6679a143af045fc5624f44e4f5c30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\classes_40e00f73f4f3ab3bf307c7e6dd035a48dd33ed50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_46089f8efe371f85934e1ee6f79807ec4641000d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_19229b145b8aa379942eedab89e77c38b0a33224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_33112b38fc31bf12f1e9d6130fc7b924dbd47067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\okio-1.4.0_fb9965148eb7befec422b4c5e4600f11e0f458bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.android\build-cache\7a4796eeaf36acb831c5c9ad4a7d245aef721546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e100b55a19b1aca45d96e1555d120f0115d7f8">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\classes_79a7aea025c1977491cdd16293ffff53569720ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d804c96646228385e6c95428332105e0d76828ec">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1256f9dc19e55602909fe8b3b8d1eb296aa80918\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\gson-2.3.1_d6cc5c968d0c091f79a8a33565939b9f28c33071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gareth\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\Gareth\Documents\Andriodstuff\EmPubLite\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_2cb49b565a90f2508310dc90ac9cab733afec9d4.jar" />
+    </item>
+
+</items>
